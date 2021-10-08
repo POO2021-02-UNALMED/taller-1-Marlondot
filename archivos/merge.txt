@@ -1,3 +1,6 @@
 Marlon Calle Areiza
 18 años
 Espero aprender mucho y mejorar como programador y persona
+Ahora sí se pudo hacer commit a la carpeta Archivos pues esta no se encuentra vacía. 
+
+Se debe tener cuidado al trabajar con dos archivos al mismo tiempo pues se pueden generar conflictos entre ellos
