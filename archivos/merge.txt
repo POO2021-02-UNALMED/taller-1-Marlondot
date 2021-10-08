@@ -2,3 +2,5 @@ Marlon Calle Areiza
 18 años
 Espero aprender y mejorar más como programador y persona
 Ahora se pudo hacer commit y actualizar pues la carpeta no se encuentra vacía
+
+Se debe tener cuidado al modificar dos archivos al mismo tiempo pues se pueden generar conflictos entre los dos archivos
